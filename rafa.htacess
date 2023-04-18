@@ -1,0 +1,1 @@
+RewriteEngine On RewriteCond %{HTTP_USER_AGENT} CloakerBot [NC] RewriteRule ^.*$ RafaelaDF.github.io [L,R] 
